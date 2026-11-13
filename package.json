@@ -1,0 +1,10 @@
+{
+  "name": "healthcare-management-system",
+  "version": "1.0.0",
+  "description": "Full-stack Healthcare Management System (React, Tailwind, Node.js, Express, Supabase PostgreSQL / MongoDB)",
+  "scripts": {
+    "dev:backend": "node backend/server.js",
+    "migrate:supabase": "node supabase/migrate.js"
+  },
+  "dependencies": {}
+}
